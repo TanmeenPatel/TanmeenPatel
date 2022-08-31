@@ -7,6 +7,7 @@ I'm somewhat fluent in HTML5, CSS, and Python. I like poring over the design asp
 Currently,
 - 🔭 I’m working on _nothing_ 
 - 🌱 I’m learning web development from [Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
+- 🌱 I’m also learning Python in my school
 - 🤔 I want to learn Tailwind CSS
 
 Extras:
