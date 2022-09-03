@@ -17,4 +17,4 @@ Extras:
 
 Some stats:
 
-[![Tanmeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanmeenpatel)](https://github.com/tanmeenpatel/github-readme-stats)
+![Tanmeen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanmeenpatel&theme=dark&show_icons=true)
