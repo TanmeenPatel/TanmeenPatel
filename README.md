@@ -16,4 +16,5 @@ Extras:
 - ⚡ Fun fact: I take an unjustified amount of time selecting an ice cream flavour
 
 Some stats:
+
 [![Tanmeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanmeenpatel)](https://github.com/tanmeenpatel/github-readme-stats)
