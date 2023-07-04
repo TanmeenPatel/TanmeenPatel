@@ -5,7 +5,7 @@ I'm a high school senior just dabbling in coding and making websites primarily. 
 I'm somewhat fluent in HTML5, CSS, and Python. I like poring over the design aspect of everything with the intention of making it look good and as a result, I have developed a knowledge of how to use design tools like Figma, Adobe XD, Coolors, Framer, and PixlrE. 
 
 Currently,
-- 🔭 I’m working on a [trading platform for my school](https://dps-trading-platform.vercel.app/) whose code you can find [here](https://github.com/TanmeenPatel/DPS-Trading-Platform)
+- 🔭 I’m working on my personal website and a mood tracker as my school project
 - 🌱 I’m learning web development from [Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
 - 🌱 I’m also learning Python in my school
 - 🤔 I want to learn Tailwind CSS
