@@ -1,8 +1,8 @@
 # Hey there, I'm Tanmeen 👋
 
-I'm a first year uni student just dabbling in coding. Having a curious mind for as long as I can remember, I like to learn anything and everything that interests me.
+I'm a second year uni student just dabbling in coding. Having a curious mind for as long as I can remember, I like to learn anything and everything that interests me.
 
-I'm somewhat fluent in HTML5, CSS, and Python. I like poring over the design aspect of everything with the intention of making it look good and as a result, I have developed a knowledge of how to use design tools like Figma, Adobe XD, Coolors, Framer, and PixlrE. 
+I'm fluent in HTML5, CSS, and Python. I like poring over the design aspect of everything with the intention of making it look good and as a result, I have developed a knowledge of how to use design tools like Figma, Adobe XD, Coolors, Framer, and PixlrE. 
 
 Currently,
 - 🔭 I’m working on my personal website
